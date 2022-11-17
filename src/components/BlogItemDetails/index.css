@@ -1,0 +1,33 @@
+.blog-item-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+}
+.author-details {
+  display: flex;
+}
+.title {
+  color: #2f4f4f;
+  font-size: 15px;
+  text-align: center;
+}
+.avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+}
+.author {
+  color: #8e8e8e;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.blog-image {
+  width: 100%;
+  border-radius: 10px;
+}
+.content {
+  color: #8e8e8e;
+  font-size: 15px;
+  text-align: left;
+}
